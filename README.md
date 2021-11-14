@@ -1,3 +1,3 @@
 # GKE
-GKE private cluster deployment using terraform
+GKE private cluster deployment using gitlab CI
 
