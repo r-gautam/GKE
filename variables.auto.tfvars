@@ -1,0 +1,10 @@
+cluster_name                       = "gke-prod"
+project                    = "strong-zephyr-317519"
+region                     = "us-west1"
+machine_type               = "g1-small"
+node_pool_name             = "prod"
+network_name = "prod-vpc"
+subnet_name  = "prod-subnet"
+router_name = "prod-route"      
+nat_name = "prod-nat"        
+
