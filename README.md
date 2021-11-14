@@ -1,2 +1,3 @@
 # GKE
-GKE deployment using terraform
+GKE private cluster deployment using terraform
+
